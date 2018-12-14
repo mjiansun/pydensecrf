@@ -273,6 +273,5 @@ Testing
 Thanks to @MarvinTeichmann we now have proper tests, install the package and run `py.test`.
 Maybe there's a better way to run them, but both of us don't know :smile:
 
-
-### Inference
+# Inference
 https://github.com/sunyao123/CRF-semantic-segmentation?tdsourcetag=s_pcqq_aiomsg
